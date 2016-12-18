@@ -1,4 +1,4 @@
-# TPAMI
+# PR
 This is the project for Pattern Recognition course.
 Platform:
 - ubuntu 16.04
