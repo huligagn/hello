@@ -19,6 +19,7 @@ python generate_datasets.py
 python generate_train_and_test_lists.py
 
 # start the fine-tuning process
+# you need imagenet-vgg-verydeep-19.mat in data/ folder
 python finetune_vgg_19.py
 ```
 

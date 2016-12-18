@@ -90,6 +90,7 @@ ENV/
 
 # special
 logs/
+data/
 dataset/
 model/
 
