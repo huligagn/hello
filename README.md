@@ -23,7 +23,7 @@ python generate_train_and_test_lists.py
 python finetune_vgg_19.py
 ```
 
-## Hypotheses-fine-tuning (in the dirctory src/)
+## Hypotheses-fine-tuning (in the dirctory H-FT/)
 some paramters should be checked out before the scripts
 
 ```sh
