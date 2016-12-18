@@ -1,0 +1,4 @@
+huligang@huligang-pc:~/workspace/hello$ python generate_dataset.py 
+Sun Dec 18 10:43:18 2016
+Sun Dec 18 10:47:21 2016
+30638 images saved.
