@@ -10,34 +10,25 @@ Platform:
 
 ## Image-fine-tuning with trick
 some paramters should be checked out before the scripts
-- generate the train and test list
 
 ```sh
+# generate the train and test list
 python generate_train_and_test_lists.py
-```
 
-- generate the datasets according to the lists in step1
-
-```sh
+# generate the datasets according to the lists in step1
 python generate_datasets.py
-```
 
-- start the fine-tuning process
-
-```sh
+# start the fine-tuning process
 python finetune_vgg_19.py
 ```
 
 ## Hypotheses-fine-tuning (in the dirctory src/)
 some paramters should be checked out before the scripts
-- generate the hypotheses
 
 ```sh
+# generate the hypotheses
 python hypotheses.py
-```
 
-- start the fine-tuning process
-
-```sh
+# start the fine-tuning process
 python final.py
 ```
