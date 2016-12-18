@@ -12,11 +12,11 @@ Platform:
 some paramters should be checked out before the scripts
 
 ```sh
+# generate the datasets
+python generate_datasets.py
+
 # generate the train and test list
 python generate_train_and_test_lists.py
-
-# generate the datasets according to the lists in step1
-python generate_datasets.py
 
 # start the fine-tuning process
 python finetune_vgg_19.py
