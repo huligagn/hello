@@ -2,3 +2,25 @@ huligang@huligang-pc:~/workspace/hello$ python generate_dataset.py
 Sun Dec 18 10:43:18 2016
 Sun Dec 18 10:47:21 2016
 30638 images saved.
+
+huligang@huligang-pc:~/workspace/hello$ python generate_train_test_lists.py 
+{'cow': 685}
+{'tvmonitor': 728}
+{'horse': 801}
+{'car': 3185}
+{'bus': 526}
+{'diningtable': 609}
+{'train': 630}
+{'person': 10674}
+{'sofa': 821}
+{'sheep': 664}
+{'boat': 791}
+{'bottle': 1291}
+{'chair': 2806}
+{'pottedplant': 1217}
+{'cat': 759}
+{'bird': 1175}
+{'aeroplane': 642}
+{'motorbike': 759}
+{'bicycle': 807}
+{'dog': 1068}

@@ -92,5 +92,9 @@ ENV/
 logs/
 dataset/
 model/
+
 *.tfrecords
 *.mat
+
+train.txt
+test.txt
